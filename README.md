@@ -13,10 +13,7 @@ In this section, I will take an initial look at the Google Analytics Customer Re
 Project Organization
 ------------
 
-Folder PATH listing for volume Windows
-Volume serial number is 842A-D560
-C:.
-│   .gitignore
+```
 │   README.md
 │   
 ├───code
@@ -85,4 +82,4 @@ C:.
         1.0-Business-Understanding.ipynb
         2.0-Exploratory-Data-Analysis.ipynb
         3.0-ML-Model-Baseline-LightGBM.ipynb
-        
+```        
