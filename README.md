@@ -34,7 +34,7 @@ Project Organization
 │   └───Modeling
 │           baseline_lgb.csv
 │           
-├───data
+├───data 						<----- not commited
 │   ├───external
 │   ├───processed
 │   │       test_flat.csv
@@ -45,7 +45,7 @@ Project Organization
 │           test.csv
 │           train.csv
 │           
-├───docs
+├───docs     			    	<----- not commited
 │   │   README.md
 │   │   
 │   ├───Data-Dictionaries
