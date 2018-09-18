@@ -5,10 +5,10 @@
 
 In this section, I will take an initial look at the Google Analytics Customer Revenue Prediction competition  hosted on [Kaggle](<https://www.kaggle.com/c/google-analytics-customer-revenue-prediction>). I am going to apply a compilation of several formal data pipeline researched (e.g. CRISP-DM, KDD, Azure TDSPD), the fundamental steps to solve any problem in a data science domain used in this project are:
 
-- Step 1 - Understanding Business Objective
+- Step 1 - Understanding the Business Objective
 - Step 2 - Data Collection & Data Preparation
-- Step 3 - Modeling
-- Step 4 - Communication
+- Step 3 - Modeling & Evaluation
+- Step 4 - Communicate Results
 
 Project Organization
 ------------
