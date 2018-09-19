@@ -3,7 +3,7 @@
 
 # Introduction
 
-In this section, I will take an initial look at the Google Analytics Customer Revenue Prediction competition  hosted on [Kaggle](<https://www.kaggle.com/c/google-analytics-customer-revenue-prediction>). I am going to apply a compilation of several formal data pipeline researched (e.g. CRISP-DM, KDD, Azure TDSPD), the fundamental steps to solve any problem in a data science domain used in this project are:
+In this section(and this [post](<https://flaviassantos.github.io/revenue-prediction/>)), I will take an initial look at the Google Analytics Customer Revenue Prediction competition  hosted on [Kaggle](<https://www.kaggle.com/c/google-analytics-customer-revenue-prediction>). I am going to apply a compilation of several formal data pipeline researched (e.g. CRISP-DM, KDD, Azure TDSPD), the fundamental steps to solve any problem in a data science domain used in this project are:
 
 - Step 1 - Understanding the Business Objective
 - Step 2 - Data Collection & Data Preparation
