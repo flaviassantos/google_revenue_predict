@@ -1,0 +1,14 @@
+name: google
+channels: 
+  - conda-forge 
+dependencies: 
+  - python=3.6 
+  - numpy=1.15 
+  - scikit-learn=0.19.1 
+  - pandas=0.23.3 
+  - matplotlib=2.2.2 
+  - conda-forge::lightgbm=2.1.1 
+pip: 
+    - sklearn-pandas==1.6.0 
+    - featuretools==0.2.1 
+    - tqdm
